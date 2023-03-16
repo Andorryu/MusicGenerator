@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="3.02">
+    <Score>
+        <Part>
+            <Staff id="1"></Staff>
+            <Staff id="2"></Staff>
+        </Part>
+        <Staff id="1">
+            <VBox>
+                <height>20</height>
+                <Text>
+                    <style>Title</style>
+                    <text>Music Generator1</text>
+                </Text>
+                <Text>
+                    <style>Composer</style>
+                    <text>Andrew and Jacob</text>
+                </Text>
+            </VBox>
+            <VBox>
+                <height>20</height>
+                <Text>
+                    <style>Title</style>
+                    <text>Music Generator2</text>
+                </Text>
+                <Text>
+                    <style>Composer</style>
+                    <text>Andrew and Jacob</text>
+                </Text>
+            </VBox>
+        </Staff>
+        <Staff id="2">
+            <VBox>
+                <height>20</height>
+                <Text>
+                    <style>Title</style>
+                    <text>Music Generator3</text>
+                </Text>
+                <Text>
+                    <style>Composer</style>
+                    <text>Andrew and Jacob</text>
+                </Text>
+            </VBox>
+            <Measure>
+                <voice>
+                    
+                </voice>
+            </Measure>
+        </Staff>
+    </Score>
+</museScore>
