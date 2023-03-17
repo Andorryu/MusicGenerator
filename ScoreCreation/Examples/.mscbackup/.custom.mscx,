@@ -2,13 +2,9 @@
 <museScore version="3.02">
     <Score>
         <Part>
-            <Staff id="1">
-            </Staff>
-            <Staff id="2">
-                <defaultClef>F</defaultClef>
-            </Staff>
+            <Staff></Staff>
         </Part>
-        <Staff id="1">
+        <Staff>
             <VBox>
                 <height>20</height>
                 <Text>
@@ -32,23 +28,6 @@
                     <Rest>
                         <durationType>measure</durationType>
                         <duration>4/4</duration>
-                    </Rest>
-                </voice>
-            </Measure>
-        </Staff>
-        <Staff id="2">
-            <Measure>
-                <voice>
-                    <KeySig>
-                        <accidental>-7</accidental>
-                    </KeySig>
-                    <TimeSig>
-                        <sigN>4</sigN>
-                        <sigD>4</sigD>
-                    </TimeSig>
-                    <Rest>
-                        <durationType>measure</durationType>
-                        <duration>2/4</duration>
                     </Rest>
                 </voice>
             </Measure>
