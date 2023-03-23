@@ -8,6 +8,6 @@ from voice import Voice
 
 class Staff:
     def __init__(self, clef="G", measures: list[Voice]=[[]]) -> None:
-        self.__defclef = clef
+        self.defclef = clef
         # measures is a 2d list, each inner list is a measure that contains somewhere from 1 to 4 voices
         self.measures = measures
