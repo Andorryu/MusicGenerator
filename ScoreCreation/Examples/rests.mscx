@@ -157,18 +157,18 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Rest>
-            <durationType>sixteenth</durationType>
-            <duration>1/4</duration>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            <duration>1/4</duration>
-            </Rest>
+         <Rest>
+           <durationType>16th</durationType>
+           <duration>1/4</duration>
+           </Rest>
+         <Rest>
+           <durationType>eighth</durationType>
+           <duration>2/4</duration>
+           </Rest>
+         <Rest>
+           <durationType>quarter</durationType>
+           <duration>1/4</duration>
+           </Rest>
           </voice>
         </Measure>
       <Measure>
