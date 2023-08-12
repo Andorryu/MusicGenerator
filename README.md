@@ -1,8 +1,6 @@
 
 # MusicGenerator
 
-*Note: Press Ctrl+K V to open md previewer*
-
 ## Overview
 
 There are two main goals of this program.
